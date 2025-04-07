@@ -20,10 +20,10 @@ export default function AboutUs() {
         <div className="content">
           <h2>About Us</h2>
           <p>
-            At Supreme Products, we have set up a large scale solar – energy
+            At Our Products, we have set up a large scale solar – energy
             product manufacturing unit, with integrated scientific research,
             production, sales, and after-sales as a complete offering to our
-            customers. The core element of Supreme Products is to adopt advanced
+            customers. The core element of Our Products is to adopt advanced
             technology and meet international standards. Our products are well
             received in the home and commercial segments. We have our grounding
             in India and now have set our footprints across the globe.
@@ -68,7 +68,7 @@ export default function AboutUs() {
             Our products are certified by a range of international and local
             quality and product standards. In addition, Our manufacturing
             facility is ISO9001:14001, quality management certified. Test
-            reports are available at our Supreme Solar Centre.
+            reports are available at our Our Solar Centre.
           </p>
         </div>
         <div className="mission">
