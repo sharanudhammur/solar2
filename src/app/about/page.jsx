@@ -68,7 +68,7 @@ export default function AboutUs() {
             Our products are certified by a range of international and local
             quality and product standards. In addition, Our manufacturing
             facility is ISO9001:14001, quality management certified. Test
-            reports are available at our Our Solar Centre.
+            reports are available at our Solar Centre.
           </p>
         </div>
         <div className="mission">
