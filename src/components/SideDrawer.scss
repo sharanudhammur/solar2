@@ -1,0 +1,26 @@
+.side-drawer-body {
+  .menu-items {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    button {
+      font-size: 20px !important;
+    }
+  }
+}
+
+.p-button {
+  background-color: white;
+  color: #333;
+  border: 0;
+  .p-button-icon {
+    font-size: 1.4rem;
+    width: auto;
+  }
+}
+.p-button.p-button-icon-only {
+  width: auto;
+}
